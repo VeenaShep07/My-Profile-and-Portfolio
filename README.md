@@ -13,6 +13,10 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 ## Selected projects – Data Analytics tasks I have completed
 
+
+**Excel**
+- [Excel Calulated Columns](Excel_1.png)
+
 **Intro to Python for Data Analysis** 
 – Python notebooks covering data types, loops, and basic Pandas. 
 
