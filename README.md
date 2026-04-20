@@ -16,9 +16,11 @@ I'm a data analytics educator based in the UK. I teach Python, SQL, Excel, Power
 
 **Excel**
 - [Excel Calulated Columns](Excel_1.png)
+- 
 
 **Intro to Python for Data Analysis** 
 – Python notebooks covering data types, loops, and basic Pandas. 
+[Cleaning & Visual(Cleaning_%26_Visuals.ipynb) 
 
 - **SQL for Analysts** 
 – Example database and queries for teaching SELECT, JOIN, and aggregation. 
