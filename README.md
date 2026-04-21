@@ -1,4 +1,4 @@
-![Portfolio banner](images/banner.jpg) 
+![Portfolio banner](images/data image.png) 
 
 
 # Hi, I'm Veena,
