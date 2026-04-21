@@ -1,4 +1,4 @@
-# My-Profile-&-Portfolio
+![Portfolio banner](images/banner.jpg) 
 
 
 # Hi, I'm Veena,
